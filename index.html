@@ -11,7 +11,7 @@
     <!-- menu -->
     <nav>
         <div class="wrapper">
-            <div class="Logo"><img src="Gambar/1.jpg"></div>
+            <div class="Logo"><img src="1.jpg"></div>
             <div class="Menu">
                 <ul>
                     <li><a href="">Premium course</a></li>
@@ -42,7 +42,7 @@
         <div class="wrapper">
             <div>
                 <p><i class="fa-brands fa-github"></i></p>
-            <small>aul-hub-collab</small>
+            <small>ari-hub-collab</small>
             </div>
             <div>
                 <p><i class="fa-brands fa-instagram"></i></p>
@@ -63,7 +63,7 @@
 
             <div class="grid">
                 <div class="item">
-                    <img src="course/11.jpg" />
+                    <img src="web1.jpg" />
                     <div class="item-detail">
                         <p>Make 50 websites using Boostrap</p>
                         <div>
@@ -73,7 +73,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img src="course/2.jpg" />
+                    <img src="web2.jpg" />
                     <div class="item-detail">
                         <p>Make 50 websites using Boostrap</p>
                         <div>
@@ -83,7 +83,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img src="course/5.jpg" />
+                    <img src="web3.jpg" />
                     <div class="item-detail">
                         <p>Make 50 websites using Boostrap</p>
                         <div>
@@ -102,7 +102,7 @@
             <h4>Tentang Saya</h4>
             <p>saya teman belajar pemrograman anda</p>
             <div>
-                <div class="foto"><img src="Gambar/ariii.jpg" /></div>
+                <div class="foto"><img src="ariii.jpg" /></div>
                 <div class="desc">
                     <p>Mulai membuat website profil di tahun 2024.</p>
                     <p>Supaya mengasah skill</p>
@@ -128,7 +128,7 @@
             <div class="grid">
                 <div class="item">
                     <div class="item-detail">
-                        <img src="Gambar/2.jpg" />
+                        <img src="2.jpg" />
                         <div>
                             <small><i class="fa-solid fa-clock"></i>50 jam</small>
                             <a href="" class="button"><i class="fa-solid fa-arrow-right"></i>ikuti</a>
@@ -137,7 +137,7 @@
                 </div>
                 <div class="item">
                     <div class="item-detail">
-                        <img src="Gambar/3.jpg" />
+                        <img src="3.jpg" />
                         <div>
                             <small><i class="fa-solid fa-clock"></i>50 jam</small>
                             <a href="" class="button"><i class="fa-solid fa-arrow-right"></i>ikuti</a>
@@ -146,7 +146,7 @@
                  </div>
                  <div class="item">
                     <div class="item-detail">
-                        <img src="Gambar/5.jpg" />
+                        <img src="5.jpg" />
                         <div>
                             <small><i class="fa-solid fa-clock"></i>50 jam</small>
                             <a href="" class="button"><i class="fa-solid fa-arrow-right"></i>ikuti</a>
